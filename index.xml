@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>COVID-19 Emergency Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/covid-19-law/law-xml</xml-bulk>
+      <html-bulk>https://github.com/covid-19-law/law-html</html-bulk>
+      <html/>
+    </canonical-urls>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="covid-19-law/law-xml" commit="24f90c00c588a17fd2a75175358ac6ae7a58f2b9"/>
+      </repositories>
+      <platform version="2020.2.0" reproducible="false"/>
+      <build-date>2020-04-02</build-date>
+      <codified-date>2020-02-14</codified-date>
+    </build>
+  </meta>
+  <heading>COVID-19 related Laws</heading>
+  <xi:include href="./us/az/index.xml"/>
+  <xi:include href="./us/ca/index.xml"/>
+  <xi:include href="./us/co/index.xml"/>
+  <xi:include href="./us/dc/index.xml"/>
+  <xi:include href="./us/fl/index.xml"/>
+  <xi:include href="./us/ga/index.xml"/>
+  <xi:include href="./us/hi/index.xml"/>
+  <xi:include href="./us/ky/index.xml"/>
+  <xi:include href="./us/la/index.xml"/>
+  <xi:include href="./us/mn/index.xml"/>
+  <xi:include href="./us/mo/index.xml"/>
+  <xi:include href="./us/oh/index.xml"/>
+  <xi:include href="./us/ok/index.xml"/>
+  <xi:include href="./us/or/index.xml"/>
+  <xi:include href="./us/pa/index.xml"/>
+  <xi:include href="./us/tn/index.xml"/>
+  <xi:include href="./us/tx/index.xml"/>
+  <xi:include href="./us/va/index.xml"/>
+  <xi:include href="./us/wa/index.xml"/>
+  <xi:include href="./us/wi/index.xml"/>
+</library>

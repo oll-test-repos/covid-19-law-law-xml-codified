@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" prefix="Ordinance No." id="us/ca/cities/long-beach/council/ordinances/2020-03-25">
+  <num type="Emergency Ordinance">ORD-20-0010</num>
+  <heading>An Ordinance of the City Council of the City of Long Beach Amending the Long Beach Municipal Code by Adding Chapter 8.100, to Temporarily Prohibit Evictions Due to COVID-19 Through May 31, 2020; Declaring the Urgency Thereof; and Declaring That This Ordinance Shall Take Effect Immediately</heading>
+  <heading type="oll"/>
+  <meta>
+    <status>Adopted</status>
+    <effective>2020-03-25</effective>
+    <expiration/>
+    <link type="pdf" url="./2020-03-25.pdf"/>
+    <link type="lims" url="http://longbeach.legistar.com/LegislationDetail.aspx?From=Alert&amp;ID=4400636&amp;GUID=C97F9AC8-8BD2-4786-AC3B-21458FEFB940&amp;Options=ID|Text|&amp;Search=COVID-19"/>
+    <history>
+      <introduced/>
+      <created>2020-03-25</created>
+    </history>
+    <search-text/>
+  </meta>
+</document>
