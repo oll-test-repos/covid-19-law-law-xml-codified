@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="us/tx" type="state">
+  <heading>Texas</heading>
+  <collection name="cities/austin" type="city">
+    <heading>Austin</heading>
+    <xi:include href="./cities/austin/mayor/orders/2020-03-17.xml"/>
+    <xi:include href="./cities/austin/mayor/orders/2020-03-14.xml"/>
+    <xi:include href="./cities/austin/regulations/emergency/2020-03-13.xml"/>
+    <xi:include href="./cities/austin/resolutions/20200312-074.xml"/>
+  </collection>
+  <collection name="cities/corpus-christi" type="city">
+    <heading>Corpus Christi</heading>
+    <xi:include href="./cities/corpus-christi/mayor/orders/2020-03-18.xml"/>
+    <xi:include href="./cities/corpus-christi/mayor/ordinances/2020-03-18.xml"/>
+  </collection>
+  <collection name="cities/dallas" type="city">
+    <heading>Dallas</heading>
+    <xi:include href="./cities/dallas/regulations/emergency/2020-03-13.xml"/>
+    <xi:include href="./cities/dallas/mayor/proclamations/2020-03-12.xml"/>
+  </collection>
+  <collection name="counties/el-paso" type="county">
+    <heading>El Paso County</heading>
+    <xi:include href="./counties/el-paso/declarations/2020-03-13.xml"/>
+  </collection>
+  <collection name="cities/el-paso" type="city">
+    <heading>El Paso</heading>
+    <xi:include href="./cities/el-paso/ordinances/2020-03-17/2.xml"/>
+    <xi:include href="./cities/el-paso/departments/public-health/orders/2020-03-17/4.xml"/>
+    <xi:include href="./cities/el-paso/departments/public-health/orders/2020-03-17/2.xml"/>
+    <xi:include href="./cities/el-paso/departments/public-health/orders/2020-03-17/1.xml"/>
+    <xi:include href="./cities/el-paso/departments/public-health/orders/2020-03-17/3.xml"/>
+    <xi:include href="./cities/el-paso/ordinances/2020-03-17/1.xml"/>
+    <xi:include href="./cities/el-paso/mayor/declarations/2020-03-17.xml"/>
+  </collection>
+  <collection name="cities/fort-worth" type="city">
+    <heading>Fort Worth</heading>
+    <xi:include href="./cities/fort-worth/council/ordinances/2020-03-19.xml"/>
+    <xi:include href="./cities/fort-worth/mayor/declarations/2020-03-18.xml"/>
+  </collection>
+  <collection name="cities/san-antonio" type="city">
+    <heading>San Antonio</heading>
+    <xi:include href="./cities/san-antonio/mayor/declarations/2020-03-16.xml"/>
+  </collection>
+</collection>
